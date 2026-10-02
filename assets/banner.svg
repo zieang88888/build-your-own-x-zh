@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400">
+  <rect width="1600" height="400" fill="#FAF6EF"/>
+  <circle cx="1340" cy="200" r="108" fill="none" stroke="#B23A2E" stroke-width="6"/>
+  <circle cx="1340" cy="200" r="18" fill="#B23A2E"/>
+  <line x1="1340" y1="100" x2="1340" y2="182" stroke="#B23A2E" stroke-width="6" stroke-linecap="round"/>
+  <line x1="1340" y1="218" x2="1340" y2="300" stroke="#B23A2E" stroke-width="6" stroke-linecap="round"/>
+  <line x1="1240" y1="200" x2="1322" y2="200" stroke="#B23A2E" stroke-width="6" stroke-linecap="round"/>
+  <line x1="1358" y1="200" x2="1440" y2="200" stroke="#B23A2E" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="1500" cy="80" r="6" fill="#E8E0D2"/>
+  <circle cx="1460" cy="340" r="5" fill="#E8E0D2"/>
+  <circle cx="120" cy="360" r="5" fill="#E8E0D2"/>
+  <rect x="100" y="108" width="8" height="188" fill="#B23A2E"/>
+  <text x="130" y="162" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="56" font-weight="700" fill="#1F1B16">从零实现你的第一个</text>
+  <text x="130" y="238" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="56" font-weight="700" fill="#B23A2E">操作系统 / 数据库 / 编译器</text>
+  <text x="130" y="292" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="24" fill="#5a4a3a">55 万星 build-your-own-x 中文导读版</text>
+  <text x="130" y="345" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="22" fill="#1F1B16">会造轮子，才算真懂</text>
+  <text x="1560" y="385" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="16" fill="#8a7a6a">build-your-own-x-zh</text>
+</svg>
