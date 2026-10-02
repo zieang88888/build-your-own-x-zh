@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#FAF6EF"/>
+
+  <text x="450" y="55" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="700" fill="#1F1B16">新人入门 10 题学习路径</text>
+  <text x="450" y="85" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="15" fill="#8a7a6a">从命令行工具起步，一路造到解释器</text>
+
+  <rect x="140" y="110" width="640" height="390" rx="16" fill="#F2E8D8"/>
+  <rect x="215" y="122" width="64" height="24" rx="12" fill="#B23A2E"/>
+  <text x="247" y="139" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="700" fill="#FAF6EF">入门</text>
+
+  <rect x="200" y="160" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="192" r="20" fill="#B23A2E"/>
+  <text x="235" y="198" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">1</text>
+  <text x="275" y="198" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个命令行工具</text>
+
+  <line x1="480" y1="227" x2="480" y2="243" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,243 484,243 480,249" fill="#B23A2E"/>
+
+  <rect x="200" y="250" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="282" r="20" fill="#B23A2E"/>
+  <text x="235" y="288" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">2</text>
+  <text x="275" y="288" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个文本编辑器</text>
+
+  <line x1="480" y1="317" x2="480" y2="333" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,333 484,333 480,339" fill="#B23A2E"/>
+
+  <rect x="200" y="340" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="372" r="20" fill="#B23A2E"/>
+  <text x="235" y="378" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">3</text>
+  <text x="275" y="378" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个 Shell</text>
+
+  <line x1="480" y1="407" x2="480" y2="423" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,423 484,423 480,429" fill="#B23A2E"/>
+
+  <rect x="200" y="430" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="462" r="20" fill="#B23A2E"/>
+  <text x="235" y="468" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">4</text>
+  <text x="275" y="468" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个 Git</text>
+
+  <rect x="140" y="510" width="640" height="390" rx="16" fill="#E8E0D2"/>
+  <rect x="215" y="522" width="64" height="24" rx="12" fill="#B23A2E"/>
+  <text x="247" y="539" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="700" fill="#FAF6EF">进阶</text>
+
+  <rect x="200" y="560" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="592" r="20" fill="#B23A2E"/>
+  <text x="235" y="598" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">5</text>
+  <text x="275" y="598" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个正则表达式引擎</text>
+
+  <line x1="480" y1="627" x2="480" y2="643" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,643 484,643 480,649" fill="#B23A2E"/>
+
+  <rect x="200" y="650" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="682" r="20" fill="#B23A2E"/>
+  <text x="235" y="688" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">6</text>
+  <text x="275" y="688" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个 Web 服务器</text>
+
+  <line x1="480" y1="717" x2="480" y2="733" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,733 484,733 480,739" fill="#B23A2E"/>
+
+  <rect x="200" y="740" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="772" r="20" fill="#B23A2E"/>
+  <text x="235" y="778" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">7</text>
+  <text x="275" y="778" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个数据库</text>
+
+  <line x1="480" y1="807" x2="480" y2="823" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,823 484,823 480,829" fill="#B23A2E"/>
+
+  <rect x="200" y="830" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="862" r="20" fill="#B23A2E"/>
+  <text x="235" y="868" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">8</text>
+  <text x="275" y="868" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个 Redis</text>
+
+  <rect x="140" y="910" width="640" height="210" rx="16" fill="#F2E8D8"/>
+  <rect x="215" y="922" width="64" height="24" rx="12" fill="#B23A2E"/>
+  <text x="247" y="939" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="700" fill="#FAF6EF">硬核</text>
+
+  <rect x="200" y="960" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1.5"/>
+  <circle cx="235" cy="992" r="20" fill="#B23A2E"/>
+  <text x="235" y="998" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">9</text>
+  <text x="275" y="998" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个编译器</text>
+
+  <line x1="480" y1="1027" x2="480" y2="1043" stroke="#B23A2E" stroke-width="2"/>
+  <polygon points="476,1043 484,1043 480,1049" fill="#B23A2E"/>
+
+  <rect x="200" y="1050" width="560" height="64" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+  <circle cx="235" cy="1082" r="20" fill="#B23A2E"/>
+  <text x="235" y="1088" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#FAF6EF">10</text>
+  <text x="275" y="1088" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">写一个解释器</text>
+
+  <text x="450" y="1155" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="15" fill="#8a7a6a">每完成一题，就多一份造轮子的底气</text>
+</svg>
